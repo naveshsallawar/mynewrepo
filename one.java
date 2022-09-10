@@ -1,4 +1,4 @@
 public void main(){
-print static void main("Hi Navesh")
+print static void main("Hi Nav")
 }
 public class
